@@ -6,3 +6,7 @@ This is radiogroup widget for Tcl/Tk - group on radio buttons in single frame wi
 * REQUIREMENTS
 
   - snit (from tcllib) :: heavyweight, but useful for later extension.
+
+* EXAMPLE
+
+  At the end of module.
